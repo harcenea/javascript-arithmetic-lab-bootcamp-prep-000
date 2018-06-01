@@ -4,4 +4,4 @@ function dec(n) { return n-- ; }
 
 function makeInt(n) { parseInt(n) ; }
 
-function preserveDecimal(n) {parseFloat(n) ; }
+function preserveDecimal(n) { parseFloat(n) ; }
